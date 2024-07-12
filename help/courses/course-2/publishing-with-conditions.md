@@ -19,7 +19,7 @@ Med villkorlig publicering kan en innehållskälla skrivas för en eller flera m
 
 Du kan hämta exempelfiler för övningen här.
 
-[Översikt - nedladdning](assets/exercises/publishing-with-conditions.zip)
+[Översikt-Ladda ned](assets/exercises/publishing-with-conditions.zip)
 
 ## Markera innehåll med villkorsattribut
 
@@ -27,7 +27,7 @@ Du kan hämta exempelfiler för övningen här.
 
 1. Ange den text som ska bli villkorlig. Ett eller flera stycken, en hel tabell, en illustration eller annat innehåll.
 
-   ![Presenting-Information](images/presenting-info.png)
+   ![Presentera-information](images/presenting-info.png)
 
 1. Markera det specifika innehåll som du vill tilldela ett villkorsattribut till. Ett enstaka stycke i källan.
 
@@ -39,13 +39,13 @@ Du kan hämta exempelfiler för övningen här.
 
 1. Tilldela ett värde till attributet. Innehållet visas med uppdateringar för att visa villkorlig kod.
 
-   ![Ange mall](images/specify-template.png)
+   ![Ange-mall](images/specify-template.png)
 
 ## Förhandsgranska villkorligt innehåll
 
-1. Klicka **Förhandsgranska**.
+1. Klicka på **Förhandsgranska**.
 
-1. Under **Filter** markerar eller avmarkerar du de villkor som ska visas eller döljas.
+1. Markera eller avmarkera villkoren som ska visas eller döljas under **Filter**.
 
 1. Markera eller avmarkera **Markera villkorstext**.
 
@@ -55,9 +55,9 @@ Du kan hämta exempelfiler för övningen här.
 
 En villkorsförinställning är en samling egenskaper som definierar vad som ska inkluderas, exkluderas, eller på annat sätt markeras, under genereringen av utdata.
 
-1. På kartkontrollpanelen väljer du **Förinställningar för villkor** -fliken.
+1. Välj fliken **Villkorsförinställningar** på kartkontrollpanelen.
 
-1. Klicka **Skapa**.
+1. Klicka på **Skapa**.
 
 1. Välj **Lägg till** (eller **Lägg till alla**).
 
@@ -69,7 +69,7 @@ En villkorsförinställning är en samling egenskaper som definierar vad som ska
 
 1. Upprepa efter behov.
 
-1. Klicka **Spara**.
+1. Klicka på **Spara**.
 
 ## Generera villkorliga utdata
 
@@ -77,17 +77,17 @@ När villkoren har tillämpats på innehållet kan de genereras som utdata. Dett
 
 ## Generera villkorliga utdata med en villkorsförinställning
 
-1. Välj **Förinställningar för utdata** -fliken.
+1. Välj fliken **Utdatainställningar**.
 
 1. Välj en förinställning för utdata.
 
-1. Klicka **Redigera**.
+1. Klicka på **Redigera**.
 
-1. Under **Använd villkor med** välj en villkorsförinställning.
+1. Välj en villkorsförinställning under **Använd villkor med**.
 
-   ![Generate-Conditional-output](images/generate-conditional-output.png)
+   ![Generate-Conditional-Output](images/generate-conditional-output.png)
 
-1. Klicka **Klar**.
+1. Klicka på **Klar**.
 
 1. Generera förinställningen för utdata och granska innehållet.
 
@@ -95,16 +95,16 @@ När villkoren har tillämpats på innehållet kan de genereras som utdata. Dett
 
 DITAval-filen kan användas för att publicera villkorsstyrt innehåll. Detta kräver att en fil skapas eller överförs och sedan refereras vid publiceringen.
 
-1. Välj **Förinställningar för utdata** -fliken.
+1. Välj fliken **Utdatainställningar**.
 
 1. Välj en förinställning för utdata.
 
-1. Klicka **Redigera**.
+1. Klicka på **Redigera**.
 
 1. Välj en DITAval-fil under Använd villkor med.
 
    ![Generate-Using-DITAval](images/generate-using-ditaval.png)
 
-1. Klicka **Klar**.
+1. Klicka på **Klar**.
 
 1. Generera förinställningen för utdata och granska innehållet.

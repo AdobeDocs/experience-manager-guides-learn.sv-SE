@@ -1,6 +1,6 @@
 ---
 title: Dispositionsvy
-description: Använda dispositionsvyn i AEM
+description: Använda dispositionsvyn i AEM Guides
 exl-id: 300f550f-dc79-4971-b8ba-43fe8499ea02
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -31,7 +31,7 @@ Konturvyn växlar från utökad till komprimerad.
 
 1. Klicka på ett element för att hoppa till den platsen.
 
-1. Klicka på [!UICONTROL **Ellips**] bredvid ett element för att komma åt kortkommandoalternativ.
+1. Klicka på [!UICONTROL **ellipsen**] bredvid ett element för att få tillgång till kortkommandoalternativen.
 
    ![Snabbmeny](images/lesson-6/shortcut-options.png)
 
@@ -39,13 +39,13 @@ Konturvyn växlar från utökad till komprimerad.
 
 Ett nytt ID kan genereras automatiskt baserat på systemkonfigurationen. Med innehållsegenskaperna kan ID:t och dess värde också uppdateras om det behövs.
 
-1. Klicka på [!UICONTROL **Ellips**] bredvid ett element.
+1. Klicka på [!UICONTROL **ellipsen**] bredvid ett element.
 
 1. Välj **Generera ID:n**.
 
-   ![Snabbmeny för ellips](images/lesson-6/ellipsis-popup.png)
+   ![Snabbmenyn Ellips](images/lesson-6/ellipsis-popup.png)
 
-ID tilldelas. Uppdateringar av innehållsegenskaper och element- och attributinformation visas.
+ID:t har tilldelats. Uppdateringar av innehållsegenskaper och element- och attributinformation visas.
 
 ## Ordna om element genom att dra och släppa
 
@@ -67,7 +67,7 @@ Elementen kan ordnas om i dispositionsvyn.
 
 1. Välj **Byt namn på element**.
 
-   ![Ändra namn på elementsnabbmenyn](images/lesson-6/rename-before.png)
+   ![Byt namn på elementsnabbmenyn](images/lesson-6/rename-before.png)
 
 1. Dubbelklicka på ett nytt elementnamn.
 
@@ -85,11 +85,11 @@ Innehållet finns kvar men strukturen har tagits bort.
 
 ## Filtrera innehåll med hjälp av dispositionsvyn
 
-1. Klicka på [!UICONTROL **Filter**] -ikonen bredvid sökfältet i dispositionsvyn.
+1. Klicka på ikonen [!UICONTROL **Filter**] bredvid sökfältet i dispositionsvyn.
 
    ![Filter](images/lesson-6/filter-icon.png)
 
-1. Välj antingen **Alla** för att visa alla element eller **Brutna länkar** för att hitta och åtgärda brutna referenser.
+1. Välj antingen **Alla** om du vill visa alla element eller **Brutna länkar** om du vill hitta och korrigera brutna referenser.
 
 ## Sök i dispositionsvyn
 

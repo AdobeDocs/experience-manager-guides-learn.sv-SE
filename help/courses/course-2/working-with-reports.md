@@ -1,10 +1,10 @@
 ---
 title: Arbeta med rapporter
-description: Arbeta med rapporter i [!DNL Adobe Experience Manager Guides]
+description: Arbeta med rapporter i  [!DNL Adobe Experience Manager Guides]
 exl-id: 755506a6-c416-4a8c-8359-8db7e63a90a4
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ På fliken Rapporter på panelen Kartkontroll kan du identifiera och åtgärda b
 
 Du kan hämta exempelfiler för övningen här.
 
-[Översikt - nedladdning](assets/exercises/working-with-reports.zip)
+[Öva/hämta](assets/exercises/working-with-reports.zip)
 
-## Överför resurser
+## Överför Assets
 
 1. I Databasvyn: välj ellipsikonen i huvudmappen för att öppna Alternativ-menyn.
 
@@ -47,7 +47,7 @@ DITA-filerna öppnas och du bör granska dem för att se om det finns problem me
 
    Dialogrutan Skapa ny karta visas.
 
-1. Välj **Bookmap** (eller **Karta** baserat på innehållstypen som du skapar) i listrutan och ge kartan en titel.
+1. I fältet Mall väljer du **Bookmap** (eller **Map** baserat på den innehållstyp som du skapar) i listrutan och ger kartan en titel.
 
 1. Välj **Skapa**.
 
@@ -73,18 +73,18 @@ Radindikatorn visar var ämnet placeras.
 
    ![save-as-new-version.png](images/save-as-new-version.png)
 
-1. I *Kommentarer till den nya versionen* anger du en beskrivande kommentar.
+1. Ange en beskrivande kommentar i fältet *Kommentarer för den nya versionen*.
 
 1. Välj **Spara**.
 
-## Generera AEM
+## Generera AEM webbplatsutdata
 
 1. I databasen väljer du ellipsikonen på kartan för att öppna Alternativ-menyn och sedan **Öppna kartkontrollpanelen.**
 
    ![open-map-dashboard.png](images/open-map-dashboard.png)
 
    Kartkontrollpanelen öppnas på en annan flik.
-1. Välj **AEM**.
+1. Välj **AEM Plats** på fliken Utdatainställningar.
 
    ![aem-site-checkbox](images/aem-site-checkbox.png)
 
@@ -104,13 +104,13 @@ Det bästa är att du alltid kontrollerar rapporter för en karta efter att du h
 
 ![reports.png](images/reports.png)
 
-Kolumnen Saknade element anger antalet saknade bilder och brutna konturer. Du kan välja **Penna** om du vill öppna ämnet i redigeraren.
+Kolumnen Saknade element anger antalet saknade bilder och brutna konturer. Du kan välja ikonen **Penna** för att öppna ämnet i redigeraren.
 
 ## Lösa saknade bilder
 
 Om bilder saknas i filerna kan det bero på att innehållet har överförts, men att bilderna inte har det. I så fall löser du problemet med saknade bilder genom att överföra bilder till en viss mapp som matchar sökvägen och filnamnen som filerna förväntar sig.
 
-1. I *Databasvy* väljer du ikonen Ellips i mappen med bilder för att öppna Alternativ-menyn.
+1. I *databasvyn* väljer du ellipsikonen i din bildmapp för att öppna Alternativ-menyn.
 
    ![image-ellipsis.png](images/image-ellipsis.png)
 
@@ -124,15 +124,15 @@ De saknade bilderna har överförts. Nu visas de här bilderna i en ny genererad
 
 Om innehåll som refereras någon annanstans (en conref) länkar till en fil i en annan mapp (till exempel en som heter &quot;reuse&quot;). och innehållet inte har överförts måste ett fel åtgärdas. Du måste till exempel skapa en undermapp med namnet&quot;återanvänd&quot; och överföra den saknade filen till&quot;återanvänd&quot;.
 
-### Överföra en resurs med [!UICONTROL Assets] UI
+### Överför en resurs med användargränssnittet [!UICONTROL Assets]
 
-Förutom [!UICONTROL Upload Assets] kan du överföra resurser genom att dra och släppa dem i resursgränssnittet.
+Utöver alternativet [!UICONTROL Upload Assets] kan du överföra resurser genom att dra och släppa dem i Assets-gränssnittet.
 
 1. I Databasvyn: välj ellipsikonen i mappen för återanvändning för att öppna Alternativ-menyn.
 
    ![reuse-ellipsis.png](images/reuse-ellipsis.png)
 
-1. Välj **Visa i resursgränssnitt**.
+1. Välj **Visa i Assets-gränssnitt**.
 
    ![assets_ui.png](images/assets_ui.png)
 

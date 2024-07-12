@@ -1,10 +1,10 @@
 ---
 title: Stavningskontrollera och sök/ersätt
-description: Använda stavningskontroll och sök/ersätt i AEM
+description: Använda stavningskontroll och sök/ersätt i AEM Guides
 exl-id: 5f39618d-a919-4d3c-a4de-2896f2d1bf20
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -25,59 +25,59 @@ Korrigera ett stavfel
 
 Om rätt stavning inte föreslås kan du alltid redigera ordet manuellt.
 
-## Växla till AEM stavningskontroll
+## Växla till AEM
 
 Du kan använda ett annat stavningskontrollverktyg än webbläsarens standardordlista.
 
-1. Navigera till **Inställningar för Redigeraren**.
+1. Navigera till **Redigeringsinställningar**.
 
-1. Välj **Allmänt** inställningsflik.
+1. Välj fliken **Allmänna** inställningar.
 
    ![Stavningskontrollkonfiguration](images/lesson-11/configure-dictionary.png)
 
 1. Det finns två alternativ:
 
-   - **Stavningskontroll för webbläsare** — standardinställningen där stavningskontrollen använder webbläsarens inbyggda ordlista.
+   - **Stavningskontroll i webbläsare** - standardinställningen där stavningskontrollen använder webbläsarens inbyggda ordlista.
 
-   - **AEM stavningskontroll** — använd detta för att skapa en egen ordlista med AEM egna ordlistan.
+   - **AEM Stavningskontroll** - använd detta för att skapa en anpassad ordlista med AEM egna ordlistan.
 
-1. Välj **AEM stavningskontroll**.
+1. Välj **AEM Stavningskontroll**.
 
-1. Klicka [!UICONTROL **Spara**].
+1. Klicka på [!UICONTROL **Spara**].
 
 Konfigurera en egen ordlista
 
 Administratören kan ändra inställningarna så att den AEM ordlistan känner igen anpassade ord som företagsnamn.
 
-1. Navigera till **verktyg** fönster.
+1. Navigera till rutan **Verktyg**.
 
 1. Logga in på **CRXDE Lite**.
 
-   ![Ikon för AEM UI CRXDE Lite](images/lesson-11/crxde-lite.png)
+   ![AEM UI CRXDE Lite-ikon](images/lesson-11/crxde-lite.png)
 
-1. Navigera till **_/apps/fmdita/config node_**.
+1. Navigera till noden **_/apps/fmdita/config_**.
 
-   ![CRXDE Lite Config-nod](images/lesson-11/config-node.png)
+   ![Konfigurationsnod för CRXDE Lite](images/lesson-11/config-node.png)
 
 1. Skapa en ny fil.
 
-   a. Högerklicka på konfigurationsmappen.
+   a. Högerklicka på mappen config.
 
    b. Välj **Skapa > Skapa fil**.
 
    ![Skapa ny ordlistefil](images/lesson-11/new-dictionary-file.png)
 
-   c. Namnge filen _**user_dictionary.txt**_.
+   c. Ge filen namnet _**user_dictionary.txt**_.
 
    ![Text för användarlexikon](images/lesson-11/user-dictionary.png)
 
-   d. Klicka [!UICONTROL **OK**].
+   d. Klicka på [!UICONTROL **OK**].
 
 1. Öppna filen.
 
 1. Lägg till en lista med ord som du vill ta med i din egen ordlista.
 
-1. Klicka [!UICONTROL **Spara alla**].
+1. Klicka på [!UICONTROL **Spara alla**].
 
 1. Stäng filen.
 
@@ -91,36 +91,36 @@ Författare kan behöva starta om sin Web Editor-session för att få den uppdat
 
 1. Skriv ett ord eller en fras i det nedre verktygsfältet.
 
-1. Klicka [!UICONTROL **Sök**].
+1. Klicka på [!UICONTROL **Sök**].
 
 1. Om det behövs skriver du ett ord som ska ersätta det ord som hittas.
 
-1. Klicka [!UICONTROL **Ersätt**].
+1. Klicka på [!UICONTROL **Ersätt**].
 
 ## Sök och ersätt i databasen
 
-1. Navigera till **Databas**.
+1. Navigera till **databasen**.
 
-1. Klicka på [!UICONTROL **Sök och ersätt**] ikonen längst ned till vänster på skärmen.
+1. Klicka på ikonen [!UICONTROL **Sök och ersätt**] längst ned till vänster på skärmen.
 
-1. Klicka på [!UICONTROL **Visa inställningar**] ikon.
+1. Klicka på ikonen [!UICONTROL **Visa inställningar**] .
 
 1. Välj antingen
 
-   - **Checka ut filen före ersättning** — Om det är aktiverat av en administratör checkas filen ut automatiskt innan söktermerna ersätts.
+   - **Checka ut filen innan ersätt** - om den är aktiverad av en administratör checkas filen ut automatiskt innan söktermerna ersätts.
 
-   - **Endast hela ord** — begränsar sökningen så att endast det angivna ordet eller frasen returneras.
+   - **Hela ordet endast** - begränsar sökningen så att bara det ord eller den fras som angetts returneras.
 
    ![Sök ersätt i databas](images/lesson-11/repository-find-replace.png)
 
-1. Klicka på [!UICONTROL **Använd filter**] om du vill markera den sökväg i databasen där du vill utföra sökningen.
+1. Klicka på ikonen [!UICONTROL **Använd filter**] för att markera den sökväg i databasen där du vill utföra sökningen.
 
 1. Ange de termer du vill söka efter och ersätta.
 
-1. Välj **Skapa ny version efter ersättning**.
+1. Om det behövs väljer du **Skapa ny version efter ersättning**.
 
-1. Klicka [!UICONTROL **Sök**].
+1. Klicka på [!UICONTROL **Sök**].
 
 1. Öppna den önskade filen och använd pilarna för att navigera mellan de olika resultaten.
 
-   ![Gränssnittet Sök efter ersätt](images/lesson-11/find-replace-navigation.png)
+   ![Sök efter navigeringsgränssnitt för att ersätta](images/lesson-11/find-replace-navigation.png)

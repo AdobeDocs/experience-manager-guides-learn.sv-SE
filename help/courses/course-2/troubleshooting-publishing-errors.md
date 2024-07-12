@@ -1,6 +1,6 @@
 ---
 title: Felsökning av publiceringsfel
-description: Felsökning av publiceringsfel i [!DNL Adobe Experience Manager Guides]
+description: Felsökning av publiceringsfel i  [!DNL Adobe Experience Manager Guides]
 exl-id: b37ea3e7-59cf-4fc5-8fae-e1fadd26f8d8
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -19,7 +19,7 @@ Det är oftast enkelt att publicera en karta. Öppna kartan, välj en förinstä
 
 Du kan hämta exempelfiler för övningen här.
 
-[Översikt - nedladdning](assets/exercises/publishing-basic-to-advanced.zip)
+[Översikt-Ladda ned](assets/exercises/publishing-basic-to-advanced.zip)
 
 ## Vanliga orsaker till publiceringsfel
 
@@ -49,9 +49,9 @@ Ett fel kan vara mindre och resultera i en enkel anteckning som talar om för di
 
 Loggfilen som genereras kan öppnas för granskning.
 
-1. I **Utdata** klickar du på **datum/tid under Genererad den.**
+1. På fliken **Utdata** klickar du på **datum/tid under Genererad den.**
 
-   ![fellogg](images/error-log.png)
+   ![error-log](images/error-log.png)
 
 1. Bläddra igenom felloggen.
 
@@ -61,46 +61,46 @@ I felloggen visas varje feltyp i en unik färg.
 
 ![navigate-errors](images/navigate-errors.png)
 
-1. **Välj** eller **avmarkera** feltyper för att visa eller dölja markeringar.
+1. **Markera** eller **avmarkera** en feltyp om du vill visa eller dölja markeringen.
 
-1. Navigera till fel med **nästa** eller **föregående** knappar (pilar).
+1. Navigera i fel med knapparna **next** eller **previous** (pilar).
 
 ## Åtgärda fel
 
-Beroende på typen av fel kan upplösningen vara enkel eller komplex. Det kan utföras av en författare i XML-redigeraren eller kräva att administratören arbetar med [!DNL AEM Guides]. Specifika korrigeringar beror på felet, effekten och organisationens arbetsflöden.
+Beroende på typen av fel kan upplösningen vara enkel eller komplex. Det kan slutföras av en författare i XML-redigeraren eller så kan en administratör behöva arbeta med [!DNL AEM Guides]. Specifika korrigeringar beror på felet, effekten och organisationens arbetsflöden.
 
 * Felaktigt namngiven filsökvägsreferens
 
-       Författare kan uppdatera sökvägsreferensen i källdokumentet.
-       
-   
+      Författare kan uppdatera sökvägsreferensen i källdokumentet.
+     
+  
 * Felaktigt namngiven mapp
 
-       Författare kan uppdatera mappnamnet eller flytta filer efter behov.
-       
-   
+      Författare kan uppdatera mappnamnet eller flytta filer efter behov.
+     
+  
 * Grafik eller fil saknas
 
-       Författare kan överföra en bild/fil som saknas, byta namn på en bild/fil eller flytta en bild/fil
-       
-   
+      Författare kan överföra en bild/fil som saknas, byta namn på en bild/fil eller flytta en bild/fil 
+     
+  
 * Felaktigt konfigurerad innehållsreferens
 
-       Författare kan korrigera platsen för det refererade innehållet eller ändra sökvägen till innehållsreferensen.
-       
-   
+      Författare kan korrigera platsen för det refererade innehållet eller ändra sökvägen till innehållsreferensen.
+     
+  
 * Bruten korsreferens
 
-       Författare kan korrigera platsen för korsreferenspunkterna eller ändra namnet eller egenskaperna för målfilen
-       
-   
+      Författare kan korrigera platsen för korsreferenspunkterna eller ändra namnet eller egenskaperna för målfilen 
+     
+  
 * Fel i värden för ett attribut (t.ex. en sträng i stället för ett tal)
 
-       Författare kan uppdatera attributet till ett korrekt värde eller så kan administratörer uppdatera systemet så att det stöder nya värden.
-       
-   
+      Författare kan uppdatera attributet till ett korrekt värde eller så kan administratörer uppdatera systemet så att det stöder nya värden.
+     
+  
 * Felaktig installation av komponenter som används av [!DNL AEM Guides]
 
-       Administratörer kan uppdatera installationen av systemet, dess komponenter eller behörigheter.
-       
-   
+      Administratörer kan uppdatera installationen av systemet, dess komponenter eller behörigheter.
+     
+  

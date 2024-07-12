@@ -7,7 +7,7 @@ ht-degree: 0%
 ---
 # FILER HAR FLYTTATS
 
-Filerna i självstudiekursen finns nu i `experience-manager-guides.en` repo:
+Filerna i självstudiekursen finns nu i `experience-manager-guides.en`-rapporten:
 
 <https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.en>
 

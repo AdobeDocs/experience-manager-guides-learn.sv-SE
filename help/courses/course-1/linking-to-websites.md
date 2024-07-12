@@ -1,6 +1,6 @@
 ---
-title: Länka till webbplatser i [!DNL AEM Guides]
-description: Länka till webbplatser i [!DNL Adobe Experience Manager Guides]
+title: Länkar till webbplatser i  [!DNL AEM Guides]
+description: Länkar till webbplatser i  [!DNL Adobe Experience Manager Guides]
 exl-id: 6b89f52e-ac15-4604-8bac-ab0bb5b5a978
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -21,15 +21,15 @@ Webblänkar dirigerar läsare till webbplatser för mer information, gör det m�
 1. Lägg till en textsträng i konceptet och markera den eller markera befintlig text.
 
    Den markerade texten är den plats där länken infogas.
-1. Välj **Infoga korsreferens** från verktygsfältet.
+1. Välj knappen **Infoga korsreferens** i verktygsfältet.
 
    ![Ikonen Infoga korsreferens](images/lesson-5/insert-crossref-icon.png)
 
    Dialogrutan Referens visas.
 
 
-1. Välj **Webblänk** från den vänstra menyn.
-1. Klistra in önskad URL och klicka sedan **Välj**.
+1. Välj **Webblänk** på den vänstra menyn.
+1. Klistra in önskad URL och klicka sedan på **Markera**.
 
    Länken fungerar och en webbsida öppnas i en ny webbläsarflik när någon klickar på den.
 
@@ -45,16 +45,16 @@ Med knappen Förhandsgranska kan du se en förhandsgranskning av ett ämne. Här
 
 1. Markera länken.
 Länkmålet öppnas på en annan flik.
-1. Återgå till redigeringsvyn genom att välja **Upphovsman** på den övre svarta menyraden.
+1. Gå tillbaka till redigeringsvyn genom att välja **Författare** i den övre svarta menyraden.
 
-   ![Knappen Författare](images/lesson-5/author-map.png)
+   ![Författarknapp](images/lesson-5/author-map.png)
 
 
 ## Spara som ny version
 
 Nu när du har lagt till mer innehåll i ditt koncept kan du spara ditt arbete som en ny version och registrera ändringarna.
 
-1. Välj **Spara som ny version** ikon.
+1. Välj ikonen **Spara som ny version** .
 
    ![Ikonen Spara som ny version](images/common/save-as-new-version.png)
 

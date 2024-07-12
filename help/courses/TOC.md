@@ -12,7 +12,7 @@ ht-degree: 14%
 
 # Tutorials för [!DNL Adobe Experience Manager Guides] {#videos}
 
-+ [[!DNL AEM Guides] Videor](overview.md)
++ [[!DNL AEM Guides] videoklipp](overview.md)
 + Komma igång med [!DNL AEM Guides] {#getting-started}
    + [Komma igång - översikt](./course-1/overview.md)
    + [Förstå AEM användargränssnitt](./course-1/understanding-the-aem-user-interface.md)
@@ -22,7 +22,7 @@ ht-degree: 14%
    + [Arbeta med listor](./course-1/working-with-lists.md)
    + [Versionsinnehåll](./course-1/versioning-content.md)
    + [Skapa en karta](./course-1/creating-a-map.md)
-   + [Publicera standardutdata](./course-1/publishing-default-output.md)
+   + [Standardutdata för Publish](./course-1/publishing-default-output.md)
    + [Omslag](./course-1/recap.md)
 + Generera utdata med [!DNL AEM Guides] {#output-generation}
    + [Översikt över utdatagenerering](./course-2/overview.md)
@@ -34,7 +34,7 @@ ht-degree: 14%
    + [Felsöka publiceringsfel](./course-2/troubleshooting-publishing-errors.md)
    + [Masspublicering](./course-2/bulk-publishing.md)
    + [Omslag](./course-2/recap.md)
-+ Redigering med [!DNL AEM Guides] Redigerare {#advanced-user-guide}
++ Redigerar med [!DNL AEM Guides] Editor {#advanced-user-guide}
    + [Redigeringsöversikt](./course-3/overview.md)
    + [Användarinställningar, redigeringsinställningar och redigeringsverktygsfält](./course-3/user-settings-preferences-toolbars.md)
    + [Mappprofiler](./course-3/folder-profiles.md)

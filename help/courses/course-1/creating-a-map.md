@@ -1,6 +1,6 @@
 ---
-title: Skapa en karta i [!DNL AEM Guides]
-description: Lär dig hur du skapar en karta i [!DNL Adobe Experience Manager Guides]
+title: Skapa en karta i  [!DNL AEM Guides]
+description: Lär dig skapa en karta i  [!DNL Adobe Experience Manager Guides]
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Skapa en karta
 
-En karta är ett organiseringsverktyg där du kan lägga till och ordna information i en hierarkisk struktur. Den här åtgärden visar hur du skapar en karta och organiserar innehåll på kartan.
+En karta är ett organiseringsverktyg som du kan använda för att lägga till och ordna information i en hierarkisk struktur. Den här åtgärden visar hur du skapar en karta och organiserar innehåll på kartan.
 
 Du kan hämta exempel på DITA-filer här:
 
@@ -29,7 +29,7 @@ Om du vill kan du överföra lokala exempelfiler till AEM för en mer komplett u
 
 ## Skapa en karta
 
-1. Öppna [!UICONTROL Options] väljer du ellipsikonen i huvudmappen.
+1. Om du vill öppna menyn [!UICONTROL Options] väljer du ellipsikonen i huvudmappen.
 
    ![Ellipsikon](images/lesson-8/ellipses-9.png)
 
@@ -38,9 +38,9 @@ Om du vill kan du överföra lokala exempelfiler till AEM för en mer komplett u
 
    ![Skapa karta](images/lesson-8/create-map-with-markings.png)
 
-   The [!UICONTROL Create New Map] visas.
+   Dialogrutan [!UICONTROL Create New Map] visas.
 
-1. I [!UICONTROL Template] fält, markera **[!UICONTROL Bookmap]** i listrutan och ge kartan en titel.
+1. I fältet [!UICONTROL Template] väljer du **[!UICONTROL Bookmap]** i listrutan och ger kartan en titel.
 1. Välj **[!UICONTROL Create]**.
 
    Kartan skapas och den vänstra listen ändras automatiskt från databasvyn till kartvyn.
@@ -67,22 +67,22 @@ Om du vill kan du överföra lokala exempelfiler till AEM för en mer komplett u
 
 Med Förhandsgranska får du en snabb överblick över innehållet med standardformat. Här visas rubriker, stycken, listor och annat innehåll i avsnitten som visas.
 
-1. Välj **[!UICONTROL Preview]** på den övre svarta menyraden.
+1. Välj **[!UICONTROL Preview]** i den övre svarta menyraden.
 
    ![Knappen Förhandsgranska](images/common/select-preview.png)
 
 Ditt innehåll öppnas i [!UICONTROL Preview].
 
-1. Om du vill återgå till redigeringsvyn och återuppta redigering av kartor väljer du **Författare.**
+1. Välj **Författare** om du vill återgå till redigeringsvyn för författare och återuppta redigering av kartor.
 
-   ![Knappen Författare](images/lesson-5/author-map.png)
+   ![Författarknapp](images/lesson-5/author-map.png)
 
 ## Konfigurera mappningsstruktur
 
 Du kan redigera ämneshierarkin i kartan.
 
 1. Klicka på ett ämnes ikon för att markera det.
-1. Använd pilarna för att nedgradera respektive höja upp element.
+1. Använd pilarna för att nedgradera respektive befordra element.
 
    ![Databasikon](images/lesson-8/left-right.png)
 
@@ -90,7 +90,7 @@ Du kan redigera ämneshierarkin i kartan.
 
 Nu när kartan är klar kan du spara ditt arbete som en ny version och registrera dina ändringar.
 
-1. Välj **[!UICONTROL Save as New Version]** ikon.
+1. Välj ikonen **[!UICONTROL Save as New Version]**.
 
    ![Ikonen Spara som ny version](images/common/save-as-new-version.png)
 

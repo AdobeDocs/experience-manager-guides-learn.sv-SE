@@ -1,6 +1,6 @@
 ---
 title: Slutsats om utbildningsserien
-description: Översikt och sammanfattning av AEM
+description: Översikt och översikt över utbildning i AEM Guides
 exl-id: 29fe5e78-8787-4f09-a969-60f68e376976
 source-git-commit: 1c4d278a05f2612bc55ce277efb5da2e6a0fa9a9
 workflow-type: tm+mt
@@ -27,7 +27,7 @@ I den här kursen lärde du dig om:
 
 - [Korsreferenser och länkar](cross-references-and-links.md)
 
-- [Återanvändning av innehåll](content-reuse.md)
+- [Återanvänd innehåll](content-reuse.md)
 
 - [Tangenter](keys.md)
 

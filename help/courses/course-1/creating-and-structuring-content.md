@@ -1,6 +1,6 @@
 ---
-title: Skapa innehåll i [!DNL AEM Guides]
-description: Skapa innehåll i [!DNL Adobe Experience Manager Guides]
+title: Skapar innehåll i  [!DNL AEM Guides]
+description: Skapar innehåll i  [!DNL Adobe Experience Manager Guides]
 exl-id: f7cfc5c8-414f-4480-a9c9-b9920975a55d
 source-git-commit: 6959927315c7afc62a7423e835a36895c76fdc6d
 workflow-type: tm+mt
@@ -11,17 +11,17 @@ ht-degree: 0%
 
 # Skapa och strukturera innehåll
 
-När du har lärt dig användargränssnittet kan du börja skapa och strukturera ditt eget innehåll.
+När du har lärt dig mer om användargränssnittet kan du börja skapa och strukturera ditt eget innehåll.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336657?quality=12&learn=on)
 
 ## Skapa en mapp
 
-1. Välj **Databas** om du vill visa dina mappar och filer.
+1. Välj ikonen **Databas** om du vill visa dina mappar och filer.
 
    ![Databasikon](images/common/repository-icon.png)
 
-1. Välj **+** ikon och **Mapp**.
+1. Välj ikonen **+** och **Mapp**.
 
    ![+ ikon](images/lesson-3/+-icon.png)
 
@@ -39,8 +39,8 @@ Nu kan vi skapa en mapp i den nya mappen som innehåller bilder eller annat inne
 
    Menyn Alternativ visas.
 
-1. Välj **Skapa mappen \>**.
-   ![Skapa en undermapp](images/lesson-3/create-subfolder-with-markings.png)
+1. Välj **Skapa \> Mapp**.
+   ![Skapar en undermapp](images/lesson-3/create-subfolder-with-markings.png)
 
 1. Ge undermappen en titel (till exempel &quot;bilder&quot;) och välj **Skapa**.
 
@@ -58,9 +58,9 @@ Nu kan vi skapa en mapp i den nya mappen som innehåller bilder eller annat inne
 
    Dialogrutan Skapa nytt ämne visas.
 
-1. I listrutan Mall i dialogrutan väljer du **Koncept**.
+1. Välj **Koncept** i listrutan Mall i dialogrutan.
 
-   ![Listruta för mall](images/lesson-3/dropdown-with-markings.png)
+   ![Listrutan Mall](images/lesson-3/dropdown-with-markings.png)
 
 1. Ge ditt koncept en titel och välj **Skapa**.
 
@@ -76,13 +76,13 @@ Du kan spara ditt arbete när som helst med Spara eller Spara som ny version. An
 
 ### Spara ditt arbete utan versionshantering
 
-1. Välj **Spara** ikon.
+1. Välj ikonen **Spara** .
 
    ![Ikonen Spara](images/common/save.png)
 
 ### Spara som ny version
 
-1. Välj **Spara som ny version** till höger om ikonen Spara.
+1. Välj ikonen **Spara som ny version** till höger om ikonen Spara.
 
    ![Ikonen Spara som ny version](images/common/save-as-new-version.png)
 

@@ -1,10 +1,10 @@
 ---
-title: Versionerar innehåll i [!DNL AEM Guides]
-description: Versionerar innehåll i [!DNL Adobe Experience Manager Guides]
+title: Versionerar innehåll i  [!DNL AEM Guides]
+description: Versionerar innehåll i  [!DNL Adobe Experience Manager Guides]
 exl-id: 766af002-d17b-4d27-b4d1-baaacc4579ca
 source-git-commit: 97254946f5ee732fe3b93ff60dd9ef51a379b9f4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ När du har flera versioner av ditt innehåll kanske du vill utforska skillnader
 
 1. Välj ikonen Versionshistorik i verktygsfältet.
 
-   ![Ikon för Tidigare versioner](images/lesson-7/version-history.png)
+   ![Ikon för versionshistorik](images/lesson-7/version-history.png)
 
    Dialogrutan Versionshistorik visas.
 
@@ -74,7 +74,7 @@ Du kan också visa versionsskillnader i förhandsvisning med hjälp av filtren S
 
    Ämnet öppnas i Förhandsgranska.
 
-1. I listrutan Spärra/knip till höger väljer du **Visa markering**.
+1. I listrutan Spårning till höger väljer du **Visa markering**.
 1. I listrutan Visa skillnader väljer du den version du vill jämföra med.
 
    Ändringarna visas som formaterat innehåll.

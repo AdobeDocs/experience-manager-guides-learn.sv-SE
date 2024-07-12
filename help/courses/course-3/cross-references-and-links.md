@@ -1,10 +1,10 @@
 ---
 title: Korsreferenser och länkar
-description: Skapa korsreferenser och länkar i AEM stödlinjer
+description: Skapa korsreferenser och länkar i AEM Guides
 exl-id: bee7d50f-cbdd-4ac8-b15b-101febc4ae80
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -28,36 +28,36 @@ Du kan skapa en extern korsreferens genom att dra och släppa ett ämne från da
 
    a. Klicka inuti elementet.
 
-   b. På panelen Innehållsegenskaper väljer du **ID** i listrutan Attribut.
+   b. Välj **ID** i listrutan Attribut på panelen Innehållsegenskaper.
 
    c. Skriv ett logiskt namn i fältet Värde.
 
-   d. Visa elementet och dess värde i **Dispositionsvy** vid behov.
+   d. Visa elementet och dess värde i **dispositionsvyn** om du vill.
 
-1. **Spara** ämnet som kontrollerar att databasen har det uppdaterade ID:t.
+1. **Spara** avsnittet för att se till att databasen har det uppdaterade ID:t.
 
-1. Klicka på [!UICONTROL **Referens**] ikonen i det övre verktygsfältet.
+1. Klicka på ikonen [!UICONTROL **Referens**] i det övre verktygsfältet.
 
    ![Verktygsfält](images/lesson-7/references-icon.png)
 
-1. Från **Innehållsreferens** markerar du det ID och elementpar som du vill infoga som en korsreferens.
+1. På fliken **Innehållsreferens** väljer du det ID och elementpar som du vill infoga som en korsreferens.
 
-1. Klicka [!UICONTROL **Välj**].
+1. Klicka på [!UICONTROL **Markera**].
 
 Korsreferensen har lagts till i ämnet.
 
 ## Länka till en webbplats
 
-Du kan infoga en länk till en webbplats inom vilket ämne som helst. Se videon AEM Guides Course 1 om länkning till webbplatser för mer information.
+Du kan infoga en länk till en webbplats inom ett ämne. Mer information finns i videon AEM Guides Course 1 om länkning till webbplatser.
 
 
 ## Visa brutna länkar
 
-Vissa ändringar kan leda till brutna korsreferenser. Detta kan vara att ta bort ett ämne, ordna om ett avsnitt som innehåller en korsreferens eller ändra ett ID efter att korsreferensen har infogats. Observera att ett exempelavsnitt _crossreferencesandlinks.zip_ finns i den här lektionen som gör att flera av punktkorsreferenserna till det interna innehållet bryts.
+Vissa ändringar kan leda till brutna korsreferenser. Detta kan vara att ta bort ett ämne, ordna om ett avsnitt som innehåller en korsreferens eller ändra ett ID efter att korsreferensen har infogats. Observera att ett exempelavsnitt _crossreferencesandlinks.zip_ ingår i den här lektionen som kommer att göra att flera av punktkorsreferenserna för det interna innehållet bryts.
 
-1. Navigera till **Dispositionsvy** till vänster.
+1. Navigera till **dispositionsvyn** på den vänstra panelen.
 
-1. Klicka på [!UICONTROL **Filter**] ikon.
+1. Klicka på ikonen [!UICONTROL **Filter**] .
 
 1. Välj **Brutna länkar**.
 

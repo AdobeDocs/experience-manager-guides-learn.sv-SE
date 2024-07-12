@@ -1,6 +1,6 @@
 ---
 title: Skapa och publicera med baslinjer
-description: Skapa och publicera med baslinjer i [!DNL Adobe Experience Manager Guides]
+description: Skapar och publicerar med baslinjer i  [!DNL Adobe Experience Manager Guides]
 exl-id: 3c229c30-f2e0-4fb0-b60c-7bae60ef1a5b
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -19,7 +19,7 @@ Om du använder en baslinje kan du skapa en version av dina kartämnen och tillh
 
 Du kan komma åt dina baslinjer på Map Dashboard.
 
-1. Databasvyn: välj ellipsikonen på kartan för att öppna Alternativ-menyn. **Öppna kartkontrollpanelen.**
+1. I databasvyn väljer du ellipsikonen på kartan för att öppna Alternativ-menyn och sedan **Öppna kartpanelen.**
 
    ![ellipsis-map-dashboard.png](images/ellipsis-map-dashboard.png)
 Kartkontrollpanelen öppnas på en annan flik.
@@ -32,7 +32,7 @@ Fliken Baslinjer visas.
 
 ## Skapa en baslinje baserad på etiketter
 
-1. På fliken Baslinjer väljer du **Skapa**.
+1. Välj **Skapa** på fliken Baslinjer.
 
    ![create-baseline.png](images/create-baseline.png)
 
@@ -45,7 +45,7 @@ Fliken Baslinjer visas.
 
    >[!NOTE]
    >
-   >OBS! The *Använd den senaste versionen om det inte finns någon etikett* är markerad som standard. Om detta inte är markerat och ämnen eller mediefiler utan den valda etiketten finns på kartan, kommer processen att misslyckas när du skapar baslinjen.
+   >Obs! Kryssrutan *Använd den senaste versionen om etiketten inte finns* är markerad som standard. Om detta inte är markerat och ämnen eller mediefiler utan den valda etiketten finns på kartan, kommer processen att misslyckas när du skapar baslinjen.
 
 1. Ange den etikett du vill använda.
 
@@ -55,7 +55,7 @@ Baslinjen skapas. En tabell med alla ämnen och tillhörande information visas.
 
 ### Använda funktionen Bläddra bland alla ämnen
 
-Med funktionen Bläddra bland alla ämnen kan du visa ämnesinformation, inklusive version och etikett, samt ange vilken version som används. Du kommer åt den genom att välja **Bläddra bland alla ämnen** när du skapar eller redigerar baslinjen.
+Med funktionen Bläddra bland alla ämnen kan du visa ämnesinformation, inklusive version och etikett, samt ange vilken version som används. Du kommer åt den genom att välja **Bläddra bland alla ämnen** när du skapar eller redigerar din baslinje.
 
 ![browse-all-topics.png](images/browse-all-topics.png)
 
@@ -117,7 +117,7 @@ Etiketten har lagts till i alla avsnitt.
 
 1. Välj **Klar**.
 
-   ![klart.png](images/done.png)
+   ![klar.png](images/done.png)
 
 1. Välj **Generera**.
 
@@ -127,7 +127,7 @@ Etiketten har lagts till i alla avsnitt.
 
 ## Visa genererade utdata
 
-1. Navigera till fliken Utdata på kartkontrollpanelen.
+1. Navigera till fliken Utdata på panelen Kartkontrollpanel.
 
 1. Markera texten i kolumnen Generationsinställning för att öppna utdata.
    ![aem-site-link.png](images/aem-site-link.png)

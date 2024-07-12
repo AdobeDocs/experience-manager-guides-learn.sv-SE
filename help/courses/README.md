@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # Adobe Experience Manager Guides
 
-Det här är svaret för att lagra videoklipp och markeringsfiler för kurserna AEM stödlinjer.
+Det här är svaret för att lagra videoklipp och markeringsfiler för&quot;AEM Guides&quot;-kurserna.

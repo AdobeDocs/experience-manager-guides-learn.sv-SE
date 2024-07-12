@@ -1,6 +1,6 @@
 ---
-title: Paneler
-description: Använda paneler i AEM
+title: Panel
+description: Använda paneler i AEM Guides
 exl-id: 24ecfc93-3540-4efa-ae85-afb346454b7f
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -9,9 +9,9 @@ ht-degree: 0%
 
 ---
 
-# Paneler
+# Panel
 
-Webbredigeraren AEM stödlinjer är uppdelad i flera avsnitt, bland annat ett huvudverktygsfält, ett sekundärt verktygsfält, en vänster panel, ett område för innehållsredigering och en höger panel.
+AEM Guides Web Editor är uppdelat i flera avsnitt, bland annat ett huvudverktygsfält, ett sekundärt verktygsfält, en vänster panel, ett område för innehållsredigering och en höger panel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342760?quality=12&learn=on)
 
@@ -27,11 +27,11 @@ Beständiga paneler som den vänstra panelen kan ändras i storlek.
 
 I den utökade vyn visas namnen och ikonerna som visas som verktygstips i den komprimerade vyn.
 
-1. Klicka på [!UICONTROL **Sidebar**] om du vill expandera panelen.
+1. Klicka på ikonen [!UICONTROL **Sidofältet**] för att expandera panelen.
 
-   ![Expandera marginallist](images/lesson-5/expand-sidebar.png)
+   ![Expandera sidofältet](images/lesson-5/expand-sidebar.png)
 
-1. Klicka på [!UICONTROL **Sidebar**] om du vill komprimera panelen igen.
+1. Klicka på ikonen [!UICONTROL **Sidofältet**] igen för att komprimera panelen.
 
    ![Dölj sidofältet](images/lesson-5/collapse-sidebar.png)
 
@@ -39,17 +39,17 @@ I den utökade vyn visas namnen och ikonerna som visas som verktygstips i den ko
 
 I den vänstra panelen kan du med Favoriter skapa en lista med specifika dokument och lägga till i den över tiden. Du kan skapa och hantera en bred samling med favoriter.
 
-1. Välj **Favoriter** till vänster.
+1. Välj **Favoriter** i den vänstra panelen.
 
-1. Klicka på [!UICONTROL **Plus**] ikon.
+1. Klicka på ikonen [!UICONTROL **Plus**] .
 
-   ![Favoriter Plus](images/lesson-5/favorites-plus.png)
+   ![Favoriter plus](images/lesson-5/favorites-plus.png)
 
-1. I dialogrutan Ny samling anger du en **Titel** och **Beskrivning**.
+1. I dialogrutan Ny samling anger du en **titel** och en **beskrivning**.
 
    Observera att när du väljer Offentlig innebär det att andra användare kan se den här favoriten.
 
-1. Klicka [!UICONTROL **Skapa**].
+1. Klicka på [!UICONTROL **Skapa**].
 
 Du har nu skapat en Favoriter-samling.
 
@@ -57,9 +57,9 @@ Du har nu skapat en Favoriter-samling.
 
 När du har skapat en samling kan du börja lägga till favoriter i den.
 
-1. Välj **Databasvy** till vänster.
+1. Välj **Databasvy** på den vänstra panelen.
 
-1. Klicka på [!UICONTROL **Ellips**] som finns bredvid ett ämne för att komma åt sammanhangsberoende alternativ.
+1. Klicka på [!UICONTROL **ellipsen**] bredvid ett ämne för att komma åt sammanhangsberoende alternativ.
 
 1. Välj **Lägg till i** > **Favoriter**.
 
@@ -71,7 +71,7 @@ När du har skapat en samling kan du börja lägga till favoriter i den.
 
 1. Välj en samling i listrutan om det behövs.
 
-1. Klicka [!UICONTROL **Lägg till**].
+1. Klicka på [!UICONTROL **Lägg till**].
 
 Avsnittet läggs till i den favoritsamling du väljer. Du kan visa den på menyn Favoriter.
 
@@ -79,11 +79,11 @@ Avsnittet läggs till i den favoritsamling du väljer. Du kan visa den på menyn
 
 Ett annat sätt att lägga till ett ämne i dina favoriter är från ett öppet ämne i Redigeraren.
 
-1. Navigera till **Databasvy**.
+1. Navigera till **databasvyn**.
 
 1. Dubbelklicka på ett ämne för att öppna det.
 
-1. Högerklicka på filens **Titelflik** i redigeraren för att komma åt sammanhangsberoende alternativ.
+1. Högerklicka på filens **titelflik** i redigeraren för att komma åt sammanhangsberoende alternativ.
 
 1. Välj **Lägg till i** > **Favoriter**.
 
@@ -93,11 +93,11 @@ Ett annat sätt att lägga till ett ämne i dina favoriter är från ett öppet 
 
    Här väljer vi att lägga till i en ny samling.
 
-1. I dialogrutan Ny samling anger du en **Titel** och **Beskrivning**.
+1. I dialogrutan Ny samling anger du en **titel** och en **beskrivning**.
 
-   Observera att markera **Offentlig** innebär att andra användare kan se den här favoriten.
+   Observera att om du väljer **Offentlig** innebär det att andra användare kan se den här favoriten.
 
-1. Klicka [!UICONTROL **Skapa**].
+1. Klicka på [!UICONTROL **Skapa**].
 
 Den nya favoriten har skapats och grupperats. Du kan visa den på menyn Favoriter.
 
@@ -105,13 +105,13 @@ Den nya favoriten har skapats och grupperats. Du kan visa den på menyn Favorite
 
 Det är enkelt att visa vilka ämnen du redan har lagt till i dina favoritsamlingar.
 
-1. Välj [!UICONTROL **Favoriter**] till vänster.
+1. Välj [!UICONTROL **Favoriter**] i den vänstra panelen.
 
-1. Under Favoriter klickar du på [!UICONTROL **Pil**] -ikonen bredvid en samling för att visa dess innehåll.
+1. Klicka på ikonen [!UICONTROL **Pil**] bredvid en samling under Favoriter för att visa dess innehåll.
 
    ![Visa favoriter](images/lesson-5/view-favorites.png)
 
-1. Klicka på [!UICONTROL **Ellips**] bredvid ett ämne för att visa sammanhangsberoende alternativ, inklusive alternativet att ta bort det från favoritlistan.
+1. Klicka på [!UICONTROL **ellipsen**] bredvid ett ämne för att visa sammanhangsberoende alternativ, inklusive alternativet att ta bort det från favoritlistan.
 
 ## Filtrera en sökning i databasvyn
 
@@ -119,7 +119,7 @@ Med det förbättrade filtret i databasen kan du söka efter text med en mängd 
 
 1. Navigera till **Databasvy**.
 
-1. Klicka på [!UICONTROL **Filtersökning**] ikon.
+1. Klicka på ikonen [!UICONTROL **Filtersökning**] .
 
    ![Ikon för databasfilter](images/lesson-5/repository-filter-icon.png)
 
@@ -135,33 +135,34 @@ Sökningar kan begränsas till DITA-avsnitt eller DITA-kartor. Du kan söka i bi
 
 ## Utforska Kartvyn
 
-Det finns flera användbara funktioner i Kartvyn, bland annat möjlighet att checka ut och låsa filer, förhandsgranska kartfilen, öppna Kartkontrollpanelen och visa kartan i resursgränssnittet.
+Det finns flera användbara funktioner i Kartvyn, bland annat möjlighet att checka ut och låsa filer, förhandsgranska kartfilen, öppna Kartkontrollpanelen och visa kartan i användargränssnittet i Assets.
 
-Se lektionen under rubrik [Kartor och bokkartor](./maps-and-bookmaps.md) i den här kursen om du vill ha mer information om Kartvyn och dess funktioner.
+Mer information om kartvyn och dess funktioner finns i lektionen [Kartor och bokkartor](./maps-and-bookmaps.md) i den här kursen.
 
-## Utforska dispositionsvyn
+## Se dispositionsvyn
 
 I dispositionsvyn finns en hierarkisk vy över det aktuella dokumentet i dispositionsvyn. Du kan expandera dispositionsvyn om du vill visa flera element samt eventuella tilldelade ID:n.
 
-Se lektionen under rubrik [Dispositionsvy](./outline-view.md) om du vill ha mer information om dispositionsvyn och dess funktioner.
+Mer information om dispositionsvyn och dess funktioner finns i lektionen [Dispositionsvy](./outline-view.md) i den här kursen.
 
 ## Arbeta med återanvändbart innehåll
 
 Den centrala DITA-funktionen är möjligheten att återanvända innehåll, från små fraser till hela ämnen eller kartor. Redigeraren har ett dra-och-släpp-gränssnitt för återanvändning av innehåll.
 
-Se lektionen under rubrik [Återanvändning av innehåll](./content-reuse.md) i den här kursen får du mer information om återanvändbart innehåll och hur du hanterar det effektivt.
+Mer information finns i lektionen [Återanvändning av innehåll](./content-reuse.md) i kursen
+information om återanvändbart innehåll och hur man hanterar det effektivt.
 
 ## Arbeta med ordlistor
 
 Om du använder ordlistan blir det enklare att använda samma frasinformation och läsaren får bättre klarhet. Redigeraren har ett dra-och-släpp-gränssnitt där du kan infoga ordlistor i ett ämne.
 
-Se lektionen under rubrik [Ordlista](./glossary.md) om du vill ha mer information om hur du konfigurerar och använder ordlistor.
+Mer information om hur du konfigurerar och använder ordlistor finns i lektionen [Ordlista](./glossary.md) i den här kursen.
 
 ## Arbeta med villkor
 
 I DITA styrs villkoren ofta av attribut som Produkt, Plattform och Målgrupp, som kan ha specifika värden tilldelade. Villkoren hanteras via mappprofiler.
 
-Se lektionen under rubrik [Villkor](./conditions.md) om du vill ha mer information om hur du konfigurerar och använder villkorsattribut.
+Mer information om hur du konfigurerar och använder villkorsattribut finns i lektionen [Villkor](./conditions.md) i den här kursen.
 
 ## Skapa ett fragment
 
@@ -173,17 +174,17 @@ Fragment är små innehållsfragment som kan återanvändas som utgångspunkt f�
 
 1. Klicka på den sekundära musknappen i elementet.
 
-1. Välj Skapa på menyn som visas [!UICONTROL **Fragment**].
+1. Välj Skapa [!UICONTROL **fragment**] på den skapade menyn.
 
    ![Skapa fragment](images/lesson-5/create-snippet.png)
 
-1. I dialogrutan Nytt fragment lägger du till en **Titel** och **Beskrivning**.
+1. I dialogrutan Nytt fragment lägger du till en **rubrik** och en **beskrivning**.
 
 1. Redigera fragmentet efter behov.
 
    Observera att en sammanhangsbaserad kontroll meddelar dig visuellt om du infogar ett fel i innehållet.
 
-1. Klicka [!UICONTROL **Skapa**].
+1. Klicka på [!UICONTROL **Skapa**].
 
 Fragmentet läggs till i listan med tillgängliga fragment. Den är klar att dras och släppas på en giltig plats i ämnet.
 
@@ -191,25 +192,25 @@ Fragmentet läggs till i listan med tillgängliga fragment. Den är klar att dra
 
 Med hjälp av mallpanelen kan administratörer enkelt skapa och hantera mallar som författarna kan använda. Som standard kategoriseras mallarna som Karta och Ämnestyp.
 
-Se lektionerna [Mappprofiler](./folder-profiles.md) och [Arbetsflöden för att skapa enkelt innehåll](simple-content-creation-workflows.md) om du vill ha mer information om hur du konfigurerar och använder mallar.
+Mer information om hur du konfigurerar och använder mallar finns i lektionerna [Mappprofiler](./folder-profiles.md) och [Arbetsflöden för att skapa enkelt innehåll](simple-content-creation-workflows.md) i den här kursen.
 
-## Sök efter filer med Sök och ersätt
+## Söka efter filer med Sök och ersätt
 
 Det finns två alternativ för Sök och ersätt i Redigeraren. Den första funktionen tillåter Sök och ersätt-funktioner i ett visst öppet ämne, ungefär som en vanlig ordbehandlare. Den andra är en Sök och ersätt-panel som söker efter text i flera filer i databasen.
 
-Se lektionen under rubrik [Stavningskontrollera och sök och ersätt](./spell-check.md)  om du vill ha mer information om funktionen Sök och ersätt.
+Mer information om funktionen Sök och ersätt finns i lektionen [Stavningskontroll och Sök och ersätt](./spell-check.md) i den här kursen.
 
 ## Uppdatera innehållsegenskaper
 
 Egenskaper för innehåll på den högra panelen innehåller specifik information om det markerade elementet, till exempel attribut-ID och värde.
 
-1. Öppna ett ämne i **XML Editor**.
+1. Öppna ett ämne i **XML-redigeraren**.
 
-1. Välj en **element**.
+1. Välj ett **element**.
 
    Innehållsegenskaper visar elementets aktuella typ och attribut.
 
-1. Ange en ny **Värde** för elementet.
+1. Ange ett nytt **värde** för elementet.
 
    ![Nytt värde](images/lesson-5/new-value.png)
 
@@ -217,47 +218,47 @@ Innehållsegenskaper uppdateras dynamiskt när du gör ändringar i element.
 
 ## Lägga till ett ämne på en karta med hjälp av filegenskaper
 
-Filegenskaper visar ytterligare information om hela det öppna avsnittet. En del av informationen styrs av Ämnesegenskaper. Ändringar i annat material, t.ex. Dokumentstatus, kan vara beroende av behörigheter.
+Filegenskaper visar ytterligare information om hela det öppna avsnittet. En del av den här informationen styrs av Ämnesegenskaper. Ändringar i annat material, t.ex. Dokumentstatus, kan vara beroende av behörigheter.
 
 1. Öppna ett ämne i Redigeraren.
 
-1. Klicka på [!UICONTROL  **Filegenskaper**] på den högra panelen.
+1. Klicka på ikonen [!UICONTROL  **Filegenskaper**] på den högra panelen.
 
    ![Ikon för filegenskaper](images/lesson-5/file-properties-icon.png)
 
-1. Ange **Dokumenttillstånd** till **Redigera**. Observera att listan med referenser är tom.
+1. Ange **Dokumentstatus** till **Redigera**. Observera att listan med referenser är tom.
 
    ![Inga referenser](images/lesson-5/no-references.png)
 
 1. Stäng ämnet.
 
-1. Välj [!UICONTROL **Databasvy**] till vänster.
+1. Välj [!UICONTROL **Databasvy**] på den vänstra panelen.
 
 1. Öppna en karta.
 
    Vyn ändras till Kartvy.
 
-1. Klicka på [!UICONTROL **Redigera**] ikon.
+1. Klicka på ikonen [!UICONTROL **Redigera**] .
 
    ![Redigera kartikon](images/lesson-5/edit-map-icon.png)
 
-1. När kartan är öppen för redigering växlar du tillbaka till **Databasvy**.
+1. När kartan är öppen för redigering växlar du tillbaka till **databasvyn**.
 
 1. Dra och släpp det ämne du arbetar med på kartan.
 
-1. Klicka på [!UICONTROL **Spara**] ikonen i det övre verktygsfältet.
+1. Klicka på ikonen [!UICONTROL **Spara**] i det övre verktygsfältet.
 
 Ämnet läggs till på kartan. När du nu öppnar ämnet och markerar filegenskaperna, kan du se att Referenser uppdateras för att återspegla att ämnet används på den angivna kartan.
 
-## Skapa en granskningsuppgift
+## Skapa en granskningsaktivitet
 
 Den högra panelen innehåller en genväg till granskningsflödet.
 
-1. Klicka på [!UICONTROL **Granska**] på den högra panelen.
+1. Klicka på ikonen [!UICONTROL **Granska**] på den högra panelen.
 
-   ![Granska ikon](images/lesson-5/review-icon.png)
+   ![Ikon för granskning](images/lesson-5/review-icon.png)
 
-1. Klicka [!UICONTROL **Skapa granskning**].
+1. Klicka på [!UICONTROL **Skapa granskning**].
 
    ![Skapa granskning](images/lesson-5/create-review.png)
 
@@ -271,4 +272,4 @@ Granskningsaktiviteten skapas.
 
 Möjligheten att spåra ändringar ger dig stor kontroll över vilka ändringar som behålls i en version av ett ämne till nästa. Du kan använda den högra panelen för att hantera spårade ändringar.
 
-Se lektionen under rubrik [Spåra ändringar](./track-changes.md) i den här kursen om du vill ha mer information om funktionen för ändringsspårning.
+Mer information om ändringsspårningsfunktioner finns i lektionen [Spåra ändringar](./track-changes.md) i den här kursen.

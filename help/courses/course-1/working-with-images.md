@@ -1,6 +1,6 @@
 ---
-title: Arbeta med bilder i AEM
-description: Arbeta med bilder i Adobe Experience Manager-guider
+title: Arbeta med bilder i AEM Guides
+description: Arbeta med bilder i Adobe Experience Manager Guides
 exl-id: 8b920a9a-bedb-434c-b6fb-3569ce4b7a81
 source-git-commit: 1f8fe099be2b4123eec6f7c973668b415097ac45
 workflow-type: tm+mt
@@ -25,11 +25,11 @@ Du kan hämta exempelbildfilen från [här.](assets/working-with-images/SignInSc
 
 1. Välj **[!UICONTROL Upload Assets]**.
 
-   ![Överför resurser](images/lesson-4/upload-assets.png)
+   ![Överför Assets](images/lesson-4/upload-assets.png)
 
-1. Välj den bild som du vill överföra från ditt lokala system och välj **Öppna**.
+1. Markera den bild som du vill överföra från ditt lokala system och välj **Öppna**.
 
-   The [!UICONTROL Upload Assets] visas.
+   Dialogrutan [!UICONTROL Upload Assets] visas.
 
 1. Välj **Överför**.
 
@@ -49,14 +49,14 @@ Se till att ämnet är öppet i dokumentredigeraren för följande.
 
 ### Infoga en bild med knappen Infoga bild
 
-1. Välj **Infoga bild** ikon.
+1. Välj ikonen **Infoga bild** .
 
    ![Ikonen Infoga bild](images/lesson-4/insert-image.png)
 
    Dialogrutan Infoga bild visas.
 
 1. Välj mappikonen bredvid fältet Välj fil om du vill söka efter bilden eller navigera till platsen i databasen.
-1. Markera bildens ikon och sedan **Välj**.
+1. Markera bildens ikon och **Markera**.
 
    ![Välj bild](images/lesson-4/select-image-with-markings.png)
 
@@ -65,11 +65,11 @@ Se till att ämnet är öppet i dokumentredigeraren för följande.
 1. Ange text i fälten Figure Title och Alternate Text efter behov.
 1. Välj **Infoga**.
 
-   Bilden visas i redigeraren tillsammans med bildens titel.
+   Bilden visas i redigeraren tillsammans med bildtiteln.
 
 ## Ta bort en bild från ett ämne
 
-1. Markera bilden i dokumentredigeraren och tryck på **Ta bort** nyckel.
+1. Markera bilden i dokumentredigeraren och tryck på **Delete**.
 
 ## Spara en ny version av ett ämne
 
@@ -77,11 +77,11 @@ Med versionshantering kan du granska och jämföra olika versioner. Du kan ocks�
 
 När du har gjort en betydande ändring i ämnet kan det nu vara bra att spara det aktuella arbetet som en ny version.
 
-1. Välj **Spara som ny version** ikon.
+1. Välj ikonen **Spara som ny version** .
 
    ![Ikonen Spara som ny version](images/common/save-as-new-version.png)
 
-   The **Spara som ny version** visas.
+   Dialogrutan **Spara som ny version** visas.
 
 1. I fältet Kommentarer för den nya versionen anger du en kort men tydlig sammanfattning av ändringarna.
 1. Ange eventuella relevanta etiketter i fältet Versionsetiketter.

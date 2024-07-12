@@ -1,6 +1,6 @@
 ---
 title: Tangenter
-description: Med tangenter kan du inkludera variabelinformation i när du arbetar med DITA i AEM stödlinjer
+description: Med tangenter kan du inkludera variabelinformation i när du arbetar med DITA i AEM Guides
 exl-id: cb64e094-fe6d-4a5e-8f0e-25ae58aaa2c6
 source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
 workflow-type: tm+mt
@@ -21,7 +21,7 @@ Exempelfiler som du kan välja att använda för den här lektionen finns i file
 
 1. Överför uppsättningen med exempelfiler.
 
-   a. Ladda zip-filen.
+   a. Läs in zip-filen.
 
    b. Uppdatera AEM.
 
@@ -29,13 +29,13 @@ Exempelfiler som du kan välja att använda för den här lektionen finns i file
 
    ![Välj postnummer](images/lesson-9/select-zip.png)
 
-   d. Klicka [!UICONTROL **Extrahera arkiv**] i det övre verktygsfältet.
+   d. Klicka på [!UICONTROL **Extrahera arkiv**] i det övre verktygsfältet.
 
    ![Verktygsfält](images/lesson-9/extract-archive.png)
 
    e. I dialogrutan väljer du den specifika platsen för filer som ska extraheras, till exempel en mapp som heter Tangenter.
 
-   f. Klicka [!UICONTROL **Nästa**].
+   f. Klicka på [!UICONTROL **Nästa**].
 
    g. Hoppa över eventuella konflikter eftersom de inte finns för innehåll som aldrig har överförts tidigare.
 
@@ -51,25 +51,25 @@ För att använda tangenter på rätt sätt måste användarinställningarna ref
 
 1. Ange en rotkarta.
 
-   a. Öppna en karta på skärmen Tangenter.
+   a. Öppna en karta på tangentskärmen.
 
    b. Konfigurera användarinställningar.
 
-   c. Klicka på [!UICONTROL **Användarinställningar**] ikonen i det övre verktygsfältet.
+   c. Klicka på ikonen [!UICONTROL **Användarinställningar**] i det övre verktygsfältet.
 
    ![Övre verktygsfält](images/lesson-9/author-view.png)
 
-   d. Klicka på tangentikonen för att ange en **Rotschema** som används för att matcha nycklar.
+   d. Klicka på nyckelikonen för att ange en **rotkarta** som ska användas för att matcha nycklar.
 
-   e. Markera kryssrutorna för de resurser du vill använda.
+   e. Markera kryssrutorna för eventuella Assets-filer.
 
-   ![Listrutan Resurser](images/lesson-9/select-assets.png)
+   ![Assets-listruta](images/lesson-9/select-assets.png)
 
-   f. Klicka [!UICONTROL **Välj**].
+   f. Klicka på [!UICONTROL **Markera**].
 
    g. **Spara** användarinställningarna.
 
-1. Navigera till **Kartvy**.
+1. Navigera till **Kartvyn**.
 
 1. Öppna den angivna kartan.
 
@@ -87,58 +87,58 @@ Tangenterna är lösta.
 
    a. Klicka på en giltig plats på kartan.
 
-   b. Välj **Keydef** ikonen i det övre verktygsfältet.
+   b. Välj ikonen **Keydef** i det övre verktygsfältet.
 
-   ![Verktygsfältet Keydef](images/lesson-9/key-icon.png)
+   ![Verktygsfältet Nyckeldef](images/lesson-9/key-icon.png)
 
-   c. I dialogrutan Infoga nyckelord anger du ett unikt värde för Tangenter som passar den definition du skapar.
+   c. Ange ett unikt värde för Tangenter som passar den definition du skapar i dialogrutan Infoga nyckelord.
 
-   d. Klicka [!UICONTROL **Infoga**].
+   d. Klicka på [!UICONTROL **Infoga**].
 
-1. Lägg till topicmeta i nyckelordet.
+1. Lägg till topicmeta i keydef.
 
-   a. Klicka på [!UICONTROL **Infoga element**] ikonen i det övre verktygsfältet.
+   a. Klicka på ikonen [!UICONTROL **Infoga element**] i det övre verktygsfältet.
 
-   ![Verktygsfältet Keydef](images/lesson-9/add-icon.png)
+   ![Verktygsfältet Nyckeldef](images/lesson-9/add-icon.png)
 
    b. I dialogrutan Infoga element söker du efter och väljer &quot;topicmeta&quot;.
 
 1. Lägg till nyckelord i ämnesmetan.
 
-   a. Klicka på [!UICONTROL **Infoga element**] ikonen i det övre verktygsfältet.
+   a. Klicka på ikonen [!UICONTROL **Infoga element**] i det övre verktygsfältet.
 
-   ![Verktygsfältet Keydef](images/lesson-9/add-icon.png)
+   ![Verktygsfältet Nyckeldef](images/lesson-9/add-icon.png)
 
-   b. I dialogrutan Infoga element söker du efter och väljer &quot;nyckelord&quot;.
+   b. Sök efter och välj nyckelord i dialogrutan Infoga element.
 
 1. Lägg till ett nyckelord i ämnesmetan.
 
-   a. Klicka på [!UICONTROL **Infoga element**] ikonen i det övre verktygsfältet.
+   a. Klicka på ikonen [!UICONTROL **Infoga element**] i det övre verktygsfältet.
 
-   ![Verktygsfältet Keydef](images/lesson-9/add-icon.png)
+   ![Verktygsfältet Nyckeldef](images/lesson-9/add-icon.png)
 
-   b. I **Infoga element** dialogruta, söka efter och markera &quot;nyckelord&quot;
+   b. Sök efter och välj nyckelord i dialogrutan **Infoga element**
 
 1. Skriv värdet för nyckelordet i nyckelordet.
 
 På kartan ska din nyckeldef nu se ut ungefär så här:
 
-![Tangentbordet är klart](images/lesson-9/keydef.png)
+![Nyckelordet har slutförts](images/lesson-9/keydef.png)
 
 ## Konfigurera ett nyckelord som ett fragment
 
 Kodavsnitt är små innehållsfragment som kan återanvändas i olika ämnen i dokumentationsprojektet. I stället för att generera varje nyckelord manuellt kan du konfigurera en enskild nyckeldef som ett fragment.
 
-1. Markera ett nyckelordselement på kartan.
+1. Markera ett nyckelelement på kartan.
 
-1. På snabbmenyn klickar du på [!UICONTROL **Skapa fragment**].
+1. Klicka på [!UICONTROL **Skapa fragment**] på snabbmenyn.
 
-1. I dialogrutan Nytt fragment lägger du till en titel och en beskrivning.
+1. I dialogrutan Nytt kodfragment lägger du till en titel och en beskrivning.
 Du kan också ta bort befintliga nycklar eller nyckelordsdefinitioner från innehållet.
 
-1. Klicka [!UICONTROL **Skapa**].
+1. Klicka på [!UICONTROL **Skapa**].
 
-1. Välj **Fragment**.
+1. Välj **Kodavsnitt** på den vänstra panelen.
 
 1. Dra och släpp det fragment du nyss skapade från fragmentpanelen på kartan.
 

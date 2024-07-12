@@ -1,6 +1,6 @@
 ---
-title: Arbeta med listor i [!DNL AEM Guides]
-description: Arbeta med listor i [!DNL Adobe Experience Manager Guides]
+title: Arbeta med listor i  [!DNL AEM Guides]
+description: Arbeta med listor i  [!DNL Adobe Experience Manager Guides]
 exl-id: 2fde90f1-cb78-4953-ae2e-1fdc3c7798a7
 source-git-commit: b5e64512956f0a7f33c2021bc431d69239f2a088
 workflow-type: tm+mt
@@ -21,11 +21,11 @@ En punktlista eller osorterad lista bör användas när listkomponenterna inte b
 
 ### Infoga en punktlista
 
-1. Välj **Infoga punktlista** -ikonen i verktygsfältet.
+1. Välj ikonen **Infoga punktlista** i verktygsfältet.
 
    ![Ikonen Infoga punktlista](images/lesson-6/insert-bulleted-list.png)
 
-   En punkt visas. Det här är början av listan.
+   En punktpunkt visas. Det här är början av listan.
 
 1. Skriv in ditt första listobjekt.
 1. Tryck på Retur för att skapa en andra post och skriva in innehållet.
@@ -37,7 +37,7 @@ En numrerad lista bör användas när listkomponenter behöver ordnas eller stru
 
 ### Infoga en ordnad lista
 
-1. Välj **Infoga numrerad lista** -ikonen i verktygsfältet.
+1. Välj ikonen **Infoga numrerad lista** i verktygsfältet.
 
    ![Ikonen Infoga numrerad lista](images/lesson-6/insert-numbered-list.png)
 
@@ -51,7 +51,7 @@ En numrerad lista bör användas när listkomponenter behöver ordnas eller stru
 
 Nu när du har lagt till mer innehåll i ditt koncept kan du spara ditt arbete som en ny version och registrera ändringarna.
 
-1. Välj **Spara som ny version** ikon.
+1. Välj ikonen **Spara som ny version** .
 
    ![Ikonen Spara som ny version](images/common/save-as-new-version.png)
 
