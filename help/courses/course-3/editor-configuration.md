@@ -2,9 +2,9 @@
 title: Konfiguration av AEM Guides Editor
 description: Konfigurera redigeraren för AEM Guides
 exl-id: 437d9598-4afc-431f-81bd-6762e22656b7
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 988c288fc03e509a3a55e87b1e1ecd8fd07d1c92
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -41,13 +41,13 @@ Du kan alltid hämta standardgränssnittskonfigurationen till din lokala dator, 
 
 Du kan nu öppna och ändra innehållet i en textredigerare. _AEM Guides installations- och konfigureringshandbok_ innehåller exempel på hur du tar bort, anpassar eller lägger till funktioner i gränssnittskonfigurationen.
 
-## Överför den ändrade gränssnittskonfigurationen för XML-redigeraren
+## Överför den ändrade konfigurationen för XML-redigeraren
 
 När du har anpassat gränssnittskonfigurationen kan du överföra den. Observera att en exempelkonfigurationsfil _ui-config-restricted-editor.json_ innehåller en uppsättning stödavsnitt för den här lektionen.
 
 1. Klicka på fliken [!UICONTROL **XML-redigerarkonfiguration**] i mappprofilen.
 
-1. Klicka på [!UICONTROL **Överför**] under gränssnittskonfigurationen för XML-redigeraren.
+1. Klicka på [!UICONTROL **Överför**] under konfigurationen för XML-redigeraren.
 
    ![Överför](images/lesson-4/upload.png)
 
