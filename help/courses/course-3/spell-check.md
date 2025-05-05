@@ -67,7 +67,7 @@ Administratören kan ändra inställningarna så att den AEM ordlistan känner i
 
    ![Skapa ny ordlistefil](images/lesson-11/new-dictionary-file.png)
 
-   c. Ge filen namnet _**user_dictionary.txt**_.
+   c. Ge filen namnet _&#x200B;**user_dictionary.txt**&#x200B;_.
 
    ![Text för användarlexikon](images/lesson-11/user-dictionary.png)
 

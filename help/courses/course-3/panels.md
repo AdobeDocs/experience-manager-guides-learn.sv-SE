@@ -222,7 +222,7 @@ Filegenskaper visar ytterligare information om hela det öppna avsnittet. En del
 
 1. Öppna ett ämne i Redigeraren.
 
-1. Klicka på ikonen [!UICONTROL  **Filegenskaper**] på den högra panelen.
+1. Klicka på ikonen [!UICONTROL &#x200B; **Filegenskaper**] på den högra panelen.
 
    ![Ikon för filegenskaper](images/lesson-5/file-properties-icon.png)
 
