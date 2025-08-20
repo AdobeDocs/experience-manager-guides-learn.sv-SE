@@ -2,9 +2,9 @@
 title: Konfiguration av AEM Guides Editor
 description: Anpassa JSON-konfigurationer och konvertera gränssnittskonfigurationer för den nya AEM Guides Editor.
 exl-id: bb047962-0e2e-4b3a-90c1-052a2a449628
-source-git-commit: efdb02d955e223783fc1904eda8d41942c1c9ccf
+source-git-commit: 1ed48d543161be88becad9c0cd58014323aeda47
 workflow-type: tm+mt
-source-wordcount: '1197'
+source-wordcount: '1303'
 ht-degree: 0%
 
 ---
@@ -405,6 +405,94 @@ I följande utdrag visas knappen **Exportera som PDF** med ett låsscenario.
 Knappen **Exportera som PDF** med upplåsningsscenariot visas i utdraget nedan.
 
 ![Exportera som PDF](images/reuse/unlock.png)
+
+### Anpassa alternativen som visas i listrutan Meny i redigeringsverktygsfältet
+
+Du kan lägga till, dölja, ersätta och lägga till anpassade alternativ i listrutan Meny med följande exempel.
+
+#### Lägger till
+
+Lägga till ett alternativ i listrutan Meny. Här lägger vi till **Anpassad menyknapp** i menyalternativen
+
+```json
+{
+        "icon": "specialCharacter",
+        "title": "Custom menu button",
+        "on-click": "$$AUTHOR_INSERT_SYMBOL",
+        "targetEditor": {
+          "editor": [
+            "ditamap"
+          ],
+          "mode": [
+            "author"
+          ]
+        },
+        "target": {
+          "key": "label",
+          "value": "Version label",
+          "viewState": "append"
+        }
+      }
+```
+
+#### Ersätter
+
+Ersätta ett alternativ som visas i listrutan Meny. Här ersätter vi **Skapa granskningsaktivitet** med **Anpassad menyknapp 3**.
+
+```json
+{
+        "icon": "specialCharacter",
+        "title": "Custom menu button 3",
+        "on-click": "$$AUTHOR_INSERT_SYMBOL",
+        "target": {
+          "key": "label",
+          "value": "Create review task",
+          "viewState": "replace"
+        }
+
+      }
+```
+
+#### Döljer
+
+Dölja ett alternativ som visas i listrutan Meny. Här döljer vi alternativet **Sök och ersätt** på menyn.
+
+```json
+{
+        "hide": true,
+        "target": {
+          "key": "label",
+          "value": "Find and replace",
+          "viewState": "replace"
+        }
+      }
+```
+
+#### Lägga till anpassade alternativ på undermenyn
+
+Lägga till ett alternativ på undermenyn i listrutan Meny.
+
+```json
+{
+        "icon": "viewAllTags",
+        "title": "Toggle Tags View Goziamasu",
+        "key": "AUTHOR_TOGGLE_TAG_VIEW",
+        "target": {
+          "key": "label",
+          "value": "Track changes",
+          "viewState": "replace"
+        },
+        "targetEditor": {
+          "documentType": [
+            "dita"
+          ],
+          "mode": [
+            "author"
+          ]
+        }
+
+      }
+```
 
 ## Så här överför du anpassade JSON-konfigurationer
 
