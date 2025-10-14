@@ -114,7 +114,7 @@ När du har öppnat den globala profilen kan du redigera dess konfiguration. Ins
 
 1. Klicka på [!UICONTROL **Redigera**] i skärmens övre vänstra hörn.
 
-   ![Redigera villkorsattribut ](images/lesson-3/edit-conditional-attributes-2.png)
+   ![Redigera villkorsattribut &#x200B;](images/lesson-3/edit-conditional-attributes-2.png)
 
 1. Klicka på [!UICONTROL **Lägg till**].
 
