@@ -9,6 +9,6 @@ ht-degree: 0%
 
 Filerna i självstudiekursen finns nu i `experience-manager-guides.en`-rapporten:
 
-<https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.en>
+<https://git.corp.adobe.com/AdobeDocs/experience-manager-guides.sv-SE>
 
 Denna -learn-rapport bör endast innehålla videoinnehållet. All produktdokumentation finns nu i den andra rapporten.
