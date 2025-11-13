@@ -2,7 +2,7 @@
 title: Skapa en karta i  [!DNL AEM Guides]
 description: Lär dig skapa en karta i  [!DNL Adobe Experience Manager Guides]
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
-source-git-commit: 9e3650f4711ca49b923baf445c36d5b460daf70b
+source-git-commit: 66d6cfd4a73459f70dd33e86bd41c8b311fe7f8a
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -10,8 +10,6 @@ ht-degree: 0%
 ---
 
 # Skapa en karta
-
-{{test}}
 
 En karta är ett organiseringsverktyg som du kan använda för att lägga till och ordna information i en hierarkisk struktur. Den här åtgärden visar hur du skapar en karta och organiserar innehåll på kartan.
 
