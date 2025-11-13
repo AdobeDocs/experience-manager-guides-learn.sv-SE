@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80552c97ab0bda6d058946a7cdb8617a8ee4fa64
+source-git-commit: 16081b8b8c3892de19986b330d8b2d08cce9cb18
 workflow-type: tm+mt
-source-wordcount: '25'
+source-wordcount: '26'
 ht-degree: 0%
 
 ---
@@ -9,6 +9,6 @@ ht-degree: 0%
 
 ## Testfragment {#test}
 
-Om du vill testa det här fragmentet lägger du till `{{test}}` i en artikel.
+Om du vill testa det här fragmentet lägger du till textutdrag i en artikel.
 
 Du kan ta bort det här fragmentavsnittet och ersätta det med riktiga fragment.

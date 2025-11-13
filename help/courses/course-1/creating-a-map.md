@@ -2,7 +2,7 @@
 title: Skapa en karta i  [!DNL AEM Guides]
 description: Lär dig skapa en karta i  [!DNL Adobe Experience Manager Guides]
 exl-id: e38a7fd5-2a29-4248-8e8f-e6a87e1eae9c
-source-git-commit: 67ba514616a0bf4449aeda035161d1caae0c3f50
+source-git-commit: 9e3650f4711ca49b923baf445c36d5b460daf70b
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -10,6 +10,8 @@ ht-degree: 0%
 ---
 
 # Skapa en karta
+
+{{test}}
 
 En karta är ett organiseringsverktyg som du kan använda för att lägga till och ordna information i en hierarkisk struktur. Den här åtgärden visar hur du skapar en karta och organiserar innehåll på kartan.
 
@@ -22,9 +24,9 @@ Du kan hämta exempel på DITA-filer här:
 
 ## Överför kartkomponenter
 
-Om du vill kan du överföra lokala exempelfiler till AEM för en mer komplett uppsättning material.
+Om du vill kan du överföra lokala exempelfiler till AEM för en mer komplett materialuppsättning.
 
-1. Dra och släpp lokala filer i AEM för att överföra dem.
+1. Dra och släpp lokala filer till AEM för att ladda upp dem.
 1. Upprepa efter behov för alla filer, inklusive bilder och ämnen.
 
 ## Skapa en karta
