@@ -5,7 +5,7 @@ breadcrumb-title: Självstudiekurser om AEM Guides
 source-git-commit: 2f11a068afaa2941e437ee8b0a735a8c7e69784c
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 13%
+ht-degree: 18%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 13%
 # Självstudiekurser för [!DNL Adobe Experience Manager Guides] {#videos}
 
 + [[!DNL AEM Guides] videoklipp](overview.md)
-+ Komma igång med [!DNL AEM Guides] {#getting-started}
++ Kom igång med [!DNL AEM Guides] {#getting-started}
    + [Komma igång - översikt](./course-1/overview.md)
    + [AEM användargränssnitt](./course-1/understanding-the-aem-user-interface.md)
    + [Skapa och strukturera innehåll](./course-1/creating-and-structuring-content.md)

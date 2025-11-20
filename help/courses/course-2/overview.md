@@ -16,7 +16,7 @@ I den här självstudiekursen får du lära dig att göra följande:
 - [Förstå kartkontrollpanelen](./introduction-to-the-map-dashboard.md)
 - [Arbeta med rapporter](./working-with-reports.md)
 - [Skapa och publicera med baslinjer](./creating-and-publishing-with-baselines.md)
-- [Publish med villkor](./publishing-with-conditions.md)
+- [Publicera med villkor](./publishing-with-conditions.md)
 - [Förstå förinställningar för utdata](./output-presets.md)
 - [Felsöka publiceringsfel](./troubleshooting-publishing-errors.md)
 - [Masspublicera](./bulk-publishing.md)

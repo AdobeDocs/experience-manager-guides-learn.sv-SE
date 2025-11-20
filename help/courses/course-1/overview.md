@@ -20,4 +20,4 @@ I den här självstudiekursen får du lära dig att göra följande:
 - [Arbeta med punktlistor och numrerade listor](working-with-lists.md)
 - [Version av ditt innehåll](versioning-content.md)
 - [Skapa och ordna en karta](creating-a-map.md)
-- [Publish en karta som AEM och PDF](publishing-default-output.md)
+- [Publicera en karta som en AEM-webbplats och PDF](publishing-default-output.md)
